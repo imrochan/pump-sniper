@@ -1,0 +1,29 @@
+{
+  "name": "pump.fuck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/spl-token": "^0.4.6",
+    "@solana/web3.js": "^1.91.8",
+    "axios": "^1.7.0",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0",
+    "buffer": "^6.0.3",
+    "buffer-layout": "^1.2.2",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.2",
+    "nvm": "^0.0.4",
+    "readline-sync": "^1.4.10",
+    "web3": "^4.8.0"
+  }
+}
